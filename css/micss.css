@@ -40,7 +40,7 @@ nav > * {
     padding: 1.7rem;
 }
 nav > a:hover {
-    background-color: white ;
+    background-color: tomato ;
     color:#062f3c;  
 }
 @media screen and (max-width:900px){
